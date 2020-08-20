@@ -102,6 +102,10 @@ body {
   padding-top: 2rem;
   
 }
+.thumbnail img{
+  width: 50%;
+  border: thick solid #008bd1;
+}
 .narrow h1 {
   font-size: 2.4rem;
 }
